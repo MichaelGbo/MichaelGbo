@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael! </h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
 
 
 
